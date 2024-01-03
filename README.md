@@ -6,4 +6,4 @@
 
 2D platformer game that I made to improve my unity skills and have fun.
 
-You can download the game at 
+You can download the game at https://github.com/Efeerenyildirim/Leaping-Slime/releases
